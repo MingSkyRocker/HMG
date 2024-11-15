@@ -3,14 +3,13 @@ package controllers
 import (
 	"context"
 	"encoding/json"
+	"hmg/models"
 	"log"
 	"net/http"
 	"os"
 	"strings"
 
-	"github.com/MingSkyRocker/HMG/helpers"
-	"github.com/MingSkyRocker/HMG/models"
-	"github.com/go-chi/chi/v5"
+	"github.com/go-chi/chi"
 	"github.com/joho/godotenv"
 	"github.com/justinas/nosurf"
 	"github.com/thedevsaddam/renderer"
