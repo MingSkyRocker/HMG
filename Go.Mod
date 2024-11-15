@@ -13,7 +13,7 @@ require (
 
 
     // HMG Repository
-    github.com/MingSkyRocker/HMG/models
+    //github.com/MingSkyRocker/HMG/models
 
 
 

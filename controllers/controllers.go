@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/MingSkyRocker/HMG//helpers"
-	"github.com/MingSkyRocker/HMG//models"
+	"github.com/MingSkyRocker/HMG/helpers"
+	"github.com/MingSkyRocker/HMG/models"
 	"github.com/go-chi/chi/v5"
 	"github.com/joho/godotenv"
 	"github.com/justinas/nosurf"
